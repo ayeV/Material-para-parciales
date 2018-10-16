@@ -1,0 +1,10 @@
+C:\Users\ayele\source\repos\PPEquipos\Test\bin\Debug\Test.exe.config
+C:\Users\ayele\source\repos\PPEquipos\Test\bin\Debug\Test.exe
+C:\Users\ayele\source\repos\PPEquipos\Test\bin\Debug\Test.pdb
+C:\Users\ayele\source\repos\PPEquipos\Test\bin\Debug\Entidades.dll
+C:\Users\ayele\source\repos\PPEquipos\Test\bin\Debug\Entidades.pdb
+C:\Users\ayele\source\repos\PPEquipos\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ayele\source\repos\PPEquipos\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ayele\source\repos\PPEquipos\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ayele\source\repos\PPEquipos\Test\obj\Debug\Test.exe
+C:\Users\ayele\source\repos\PPEquipos\Test\obj\Debug\Test.pdb

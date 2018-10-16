@@ -1,0 +1,6 @@
+C:\Users\ayele\source\repos\PPEquipos\Entidades\bin\Debug\Entidades.dll
+C:\Users\ayele\source\repos\PPEquipos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ayele\source\repos\PPEquipos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ayele\source\repos\PPEquipos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ayele\source\repos\PPEquipos\Entidades\obj\Debug\Entidades.dll
+C:\Users\ayele\source\repos\PPEquipos\Entidades\obj\Debug\Entidades.pdb
