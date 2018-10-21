@@ -1,0 +1,6 @@
+C:\Users\ayele\Desktop\PPPrestamos\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\ayele\Desktop\PPPrestamos\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\ayele\Desktop\PPPrestamos\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\PPPrestamos\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\PPPrestamos\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\ayele\Desktop\PPPrestamos\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb

@@ -1,0 +1,10 @@
+C:\Users\ayele\Desktop\PPPrestamos\Test\bin\Debug\Test.exe.config
+C:\Users\ayele\Desktop\PPPrestamos\Test\bin\Debug\Test.exe
+C:\Users\ayele\Desktop\PPPrestamos\Test\bin\Debug\Test.pdb
+C:\Users\ayele\Desktop\PPPrestamos\Test\bin\Debug\EntidadFinanciera.dll
+C:\Users\ayele\Desktop\PPPrestamos\Test\bin\Debug\EntidadFinanciera.pdb
+C:\Users\ayele\Desktop\PPPrestamos\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\PPPrestamos\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\PPPrestamos\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ayele\Desktop\PPPrestamos\Test\obj\Debug\Test.exe
+C:\Users\ayele\Desktop\PPPrestamos\Test\obj\Debug\Test.pdb
