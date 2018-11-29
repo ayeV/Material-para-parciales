@@ -1,0 +1,6 @@
+C:\Users\ayele\Desktop\SPBitacora\Entidades\bin\Debug\Entidades.dll
+C:\Users\ayele\Desktop\SPBitacora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ayele\Desktop\SPBitacora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\SPBitacora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\SPBitacora\Entidades\obj\Debug\Entidades.dll
+C:\Users\ayele\Desktop\SPBitacora\Entidades\obj\Debug\Entidades.pdb
